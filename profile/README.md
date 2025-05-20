@@ -5,6 +5,7 @@
 ```txt
 .
 └── LVA
+    ├── Useful_Links.md
     ├── Altprüfungen
     │   ├── 2023-12-31_Prüfung.pdf
     │   └── 2024-03-05_Prüfung.pdf
@@ -18,3 +19,6 @@
         └── Fragen.apkg
 
 ```
+
+> [!Info]
+> `Useful_Links.md` soll als zentraler Sammelpunkt für weiterführende Links zu hilfreichen Materalien, wie zum Beispiel weitere (öffentliche) Dokumente von anderen Universitäten.
