@@ -20,5 +20,6 @@
 
 ```
 
-> [!Info]
+
+> [!TIP]
 > `Useful_Links.md` soll als zentraler Sammelpunkt für weiterführende Links zu hilfreichen Materalien, wie zum Beispiel weitere (öffentliche) Dokumente von anderen Universitäten.
