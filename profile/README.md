@@ -65,3 +65,5 @@
 **3. Semester**
 
 **4. Semester**
+
+## Ohne Semesterempfehlung / Freie Wahlfächer
