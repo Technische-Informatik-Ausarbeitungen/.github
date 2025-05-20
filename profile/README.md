@@ -42,7 +42,7 @@
 
 - [Dependable Systems](https://github.com/Technische-Informatik-Ausarbeitungen/DEPSYS)
 - [Realtime Systems](https://github.com/Technische-Informatik-Ausarbeitungen/RTSYS)
-- [Zeitdiskrete Signale und Systeme/ SigSys 2](https://github.com/Technische-Informatik-Ausarbeitungen/ZDSS)
+- [Zeitdiskrete Signale und Systeme / SigSys 2](https://github.com/Technische-Informatik-Ausarbeitungen/ZDSS)
 - [Modellbildung](https://github.com/Technische-Informatik-Ausarbeitungen/MB)
 - [Digital Design and Computer Architecture](https://github.com/Technische-Informatik-Ausarbeitungen/DDCA)
 
