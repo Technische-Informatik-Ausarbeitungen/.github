@@ -56,6 +56,7 @@
 - [Dezentrale Automation (Labor)](https://github.com/Technische-Informatik-Ausarbeitungen/DALU)
 - [Regelungstechnik (Labor)](https://github.com/Technische-Informatik-Ausarbeitungen/RTLU)
 - [Automatisierung](https://github.com/Technische-Informatik-Ausarbeitungen/AUT)
+- [Mikrocomputer](https://github.com/Technische-Informatik-Ausarbeitungen/MC)
 
 **6. Semester**
 
