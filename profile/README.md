@@ -1,6 +1,6 @@
 # Technische Informatik Ausarbeitungen
 
-## Ordnerstruktur der Repositories
+## Ordnerstruktur und Datei-Hinweise
 
 ```txt
 .
@@ -24,6 +24,10 @@
 
 > [!TIP]
 > `Useful_Links.md` soll als zentraler Sammelpunkt für weiterführende Links zu hilfreichen Materialien, wie zum Beispiel weitere (öffentliche) Dokumente von anderen Universitäten.
+
+> [!Caution]
+>
+> Zusammenfassungen, Notizen und ähnliche Dokumente sollten in Dateiformaten hinzugefügt werden, welche auch bearbeitet werden können (`.md`, `.tex` usw.). Altprüfungen können auch als PDF hochgeladen werden, da eine Änderung dort sowieso nicht geplant ist. Für Flashcards, wie [Anki](https://apps.ankiweb.net/) ist das Format `.apkg` ideal, da auch diese nachträglich noch geändert und erweitert werden können.
 
 ## Semesterempfehlungen Bachelor *Technische Informatik*
 
