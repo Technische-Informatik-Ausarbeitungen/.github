@@ -82,4 +82,9 @@ Für rein organisatorische Fragen, wie zum Beispiel das Anlegen einer neuen LVA 
 
 **4. Semester**
 
-## Ohne Semesterempfehlung / Freie Wahlfächer
+## Ohne Semesterempfehlung: Vertiefung/Verbreiterung
+- [Telekommunikation](https://github.com/Technische-Informatik-Ausarbeitungen/TELEKOM.git)
+- [Halbleiterphysik](https://github.com/Technische-Informatik-Ausarbeitungen/HLP.git)
+- [Sensorik und Sensorsysteme](https://github.com/Technische-Informatik-Ausarbeitungen/SUS.git)
+
+## Ohne Semesterempfehlung: Freie Wahlfächer
