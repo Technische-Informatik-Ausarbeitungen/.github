@@ -12,8 +12,10 @@
     │   └── 2024-03-05_Prüfung.pdf
     ├── 2024W
     │   ├── Übung_1
+    │   │   └── Beispiel_1.m
     │   ├── Übung_2
-    │   └── Zusammenfassung.pdf
+    │   │   └── Lösungsansatz.md
+    │   └── Zusammenfassung.tex
     └── 2025S
         ├── Übung_1
         ├── Übung_3
@@ -29,15 +31,21 @@
 >
 > Zusammenfassungen, Notizen und ähnliche Dokumente sollten in Dateiformaten hinzugefügt werden, welche auch bearbeitet werden können (`.md`, `.tex` usw.). Altprüfungen können auch als PDF hochgeladen werden, da eine Änderung dort sowieso nicht geplant ist. Für Flashcards, wie [Anki](https://apps.ankiweb.net/) ist das Format `.apkg` ideal, da auch diese nachträglich noch geändert und erweitert werden können.
 
-## Fragen, Rückmeldungen und Diskussionsforum
+## Mitwirken, Fragen und Diskussionsforum
+
+Um bei vorhandenen LVAs beizutragen, was sehr gerne gewünscht ist, ist der empfohlene Vorgang das Repository zu *forken* und nach den Änderungen eine Merge/Pull-Request zu erstellen. Die Maintainer werden dann diese nach einer Prüfung der Struktur, Dateinamen und ähnliche organisatorische Richtlinien prüfen und die Request akzeptieren. Neue Ausarbeitungen, Zusammenfassungen und weitere Inhalte sind immer gern gesehen, jedoch liegt unser Fokus sehr darauf eine übersichtliche Struktur beizubehalten, weshalb ein unkontrollierter Wachstum nicht gewünscht ist.
+
+Für rein organisatorische Fragen, wie zum Beispiel das Anlegen einer neuen LVA gibt es [das Diskussionsforum](https://github.com/orgs/Technische-Informatik-Ausarbeitungen/discussions) wo solche Anliegen besprochen werden können.
 
 ## Semesterempfehlungen Bachelor *Technische Informatik*
 
 **1. Semester**
 
-- [Elektrotechnische Grundlagen](https://github.com/Technische-Informatik-Ausarbeitungen/ETG)
+
 
 **2. Semester**
+
+- [Elektrotechnische Grundlagen](https://github.com/Technische-Informatik-Ausarbeitungen/ETG)
 
 **3. Semester**
 
