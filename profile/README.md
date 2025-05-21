@@ -29,6 +29,8 @@
 >
 > Zusammenfassungen, Notizen und ähnliche Dokumente sollten in Dateiformaten hinzugefügt werden, welche auch bearbeitet werden können (`.md`, `.tex` usw.). Altprüfungen können auch als PDF hochgeladen werden, da eine Änderung dort sowieso nicht geplant ist. Für Flashcards, wie [Anki](https://apps.ankiweb.net/) ist das Format `.apkg` ideal, da auch diese nachträglich noch geändert und erweitert werden können.
 
+## Fragen, Rückmeldungen und Diskussionsforum
+
 ## Semesterempfehlungen Bachelor *Technische Informatik*
 
 **1. Semester**
